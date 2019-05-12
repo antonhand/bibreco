@@ -1,1 +1,1 @@
-# diploma
+# Рекомендательная система Bibreco | Bibreco recommendation system
